@@ -1,0 +1,16 @@
+/*Style.css*/
+
+/*Container wrappin the site content*/
+#container {
+    max-width: 50em;
+    margin: 0 auto;
+    background-color: #eee;
+}
+
+img {
+    max-width: 50%;
+}
+
+div > img {
+    max-width: 80%;
+}

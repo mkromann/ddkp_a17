@@ -1,0 +1,23 @@
+/*Style.css - til dine custom styles*/
+
+.form-control, .btn, .card, .card-img-top {
+    border-radius: 0;
+}
+
+.btn-primary {
+    background: black;
+    border-color: black;
+}
+
+body {
+    font-family: 'Inconsolata', monospace;
+}
+
+.card-img-top {
+    height: 325px;
+}
+
+.row > *  {
+    margin-bottom: 30px;
+}
+
